@@ -4,7 +4,7 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php?model=loaitaisan&action=index">Loại Tài Sản</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Sửa Loại Tài Sản</li>
+                    <li class="breadcrumb-item active" aria-current="page">Sửa Loại TÀI SẢN CỐ ĐỊNH </li>
                 </ol>
             </nav>
         </div>
