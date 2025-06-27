@@ -4,7 +4,7 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php?model=loaitaisan&action=index">Loại Tài Sản</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Tạo Loại tài sản </li>
+                    <li class="breadcrumb-item active" aria-current="page">Tạo Loại tài sản  </li>
                 </ol>
             </nav>
         </div>
@@ -17,7 +17,7 @@
             <div class="card">
                 <div class="card-header">
                     <div class="d-flex justify-content-between align-items-center">
-                        <h5 class="card-title mb-0">Thêm Loại Tài Sản</h5>
+                        <h5 class="card-title mb-0">Thêm Loại tài sản mới </h5>
                     </div>
                 </div>
                 <div class="card-body">
