@@ -3,7 +3,7 @@
         <div class="col">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php?model=loaitaisan&action=index">Loại tài sản</a></li>
+                    <li class="breadcrumb-item"><a href="index.php?model=loaitaisan&action=index">Loại TAI SANgit </a></li>
                 </ol>
             </nav>
         </div>
