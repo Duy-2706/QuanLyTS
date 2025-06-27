@@ -26,5 +26,5 @@ class Setup {
 }
 
 $setup = new Setup();
-$setup->runSQLFromFile('G:\XAMPP\htdocs\QuanLyTS\database\schema.sql'); // Đường dẫn tới file schema.sql
+$setup->runSQLFromFile('D:\xampp\htdocs\QuanLyTS\database\schema.sql'); // Đường dẫn tới file schema.sql
 ?>
